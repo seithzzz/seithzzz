@@ -1,0 +1,49 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  font-family: Times, Times New Roman, serif;
+  font-size:20px;
+  background-image: url(images/background19.png);
+}
+
+.header {
+  font-family: Trebuchet MS, sans-serif;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+figure {
+  float: right;
+  font-style: italic;
+  width: 12em;
+}
+
+figure > img {
+  width: 100%;
+}
+
+blockquote {
+  border: 2px solid #000000;
+  font-size: 20px;
+  font-style: italic;
+  margin: 16px 31px 31px 16px;
+  padding: 16px 24px;
+  position: relative;
+  box-shadow: 15px 15px 0 0 #333;
+}
+
+table {
+  border: 1px solid #000000;
+  border-collapse: collapse;
+  margin: auto;
+  width: 1000px;
+}
+
+td, th {
+  padding: 1px;
+  border: 1px solid #000000;
+  text-align: center;
+}
